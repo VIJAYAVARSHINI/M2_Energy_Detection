@@ -13,6 +13,7 @@ In this project the user can understand and monitor the power usages. We can eas
 
 ## WEAKNESS:
 1.Vulnerable to viruses. 
+
 2.May handle critical damage.
 
 ## OPPORTUNITY:
@@ -20,12 +21,15 @@ Used for measuring purpose can also develop to a smart energy meter by including
 
 ## THREATS:
 Application may crash somtimes.
+
 Can hit error when given huge value, this may damage the equipment.
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-Resiential Consumers, Industrial owners
+Resiential Consumers
+
+Industrial owners
 
 ## What:
 
@@ -37,6 +41,7 @@ Demand Basis
 
 ## Where:
 As a retro-fit in industries
+
 Small scale manufacturing units
 
 
