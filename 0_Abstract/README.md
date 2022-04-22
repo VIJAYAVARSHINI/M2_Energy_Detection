@@ -1,4 +1,4 @@
-# Requirements
-## Introduction
-In this project the user can understand and monitor the power usages. We can easily monitor power consumption using a smart energy meter. Its useful and needed for measuring the overall energy consumed.
+# ABSTRACT
+
+In this project the user can understand and monitor the power usages. The power consumption can be easily monitored by using a smart energy meter. It is much needed for measuring the overall energy consumed.
 
