@@ -87,3 +87,8 @@ Low Level Requirements:
 |LR03|User must give the relevent inputs|HR03|Implemented|
 |LR04|User desired Output. |HR04|Implemented|Requirements
 
+## Output
+
+![on](https://user-images.githubusercontent.com/101562511/164887784-ff16fc9c-527b-4578-99d9-f7742027b0aa.PNG)
+
+
